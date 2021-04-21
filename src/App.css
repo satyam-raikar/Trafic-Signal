@@ -1,4 +1,56 @@
-.App {
+
+.App{
+  background-color: whitesmoke;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+
+  height: 100vh;
+  width: 100%;
+}
+
+.signal{
+    height: 400px;
+    width: 200px;
+    background-color:rgb(117, 116, 116);
+    display: flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.red ,.green,.orange{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+/* .red{
+  background-color:#ff2e2e80;
+}
+.orange{
+  background-color:#ff7e33;
+}
+.green{
+  background-color:rgb(53, 250, 53);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +87,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
