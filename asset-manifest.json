@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Trafic-Signalclea/static/css/main.9dc92636.chunk.css",
-    "main.js": "/Trafic-Signalclea/static/js/main.1a210df6.chunk.js",
-    "main.js.map": "/Trafic-Signalclea/static/js/main.1a210df6.chunk.js.map",
-    "runtime-main.js": "/Trafic-Signalclea/static/js/runtime-main.24866f53.js",
-    "runtime-main.js.map": "/Trafic-Signalclea/static/js/runtime-main.24866f53.js.map",
-    "static/js/2.a71ceb81.chunk.js": "/Trafic-Signalclea/static/js/2.a71ceb81.chunk.js",
-    "static/js/2.a71ceb81.chunk.js.map": "/Trafic-Signalclea/static/js/2.a71ceb81.chunk.js.map",
-    "index.html": "/Trafic-Signalclea/index.html",
-    "static/css/main.9dc92636.chunk.css.map": "/Trafic-Signalclea/static/css/main.9dc92636.chunk.css.map",
-    "static/js/2.a71ceb81.chunk.js.LICENSE.txt": "/Trafic-Signalclea/static/js/2.a71ceb81.chunk.js.LICENSE.txt"
+    "main.css": "/Trafic-Signal/static/css/main.9dc92636.chunk.css",
+    "main.js": "/Trafic-Signal/static/js/main.1a210df6.chunk.js",
+    "main.js.map": "/Trafic-Signal/static/js/main.1a210df6.chunk.js.map",
+    "runtime-main.js": "/Trafic-Signal/static/js/runtime-main.499926d8.js",
+    "runtime-main.js.map": "/Trafic-Signal/static/js/runtime-main.499926d8.js.map",
+    "static/js/2.a71ceb81.chunk.js": "/Trafic-Signal/static/js/2.a71ceb81.chunk.js",
+    "static/js/2.a71ceb81.chunk.js.map": "/Trafic-Signal/static/js/2.a71ceb81.chunk.js.map",
+    "index.html": "/Trafic-Signal/index.html",
+    "static/css/main.9dc92636.chunk.css.map": "/Trafic-Signal/static/css/main.9dc92636.chunk.css.map",
+    "static/js/2.a71ceb81.chunk.js.LICENSE.txt": "/Trafic-Signal/static/js/2.a71ceb81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.24866f53.js",
+    "static/js/runtime-main.499926d8.js",
     "static/js/2.a71ceb81.chunk.js",
     "static/css/main.9dc92636.chunk.css",
     "static/js/main.1a210df6.chunk.js"
